@@ -4,7 +4,6 @@
 
 
 > [!WARNING]
-> **Regulatory and Ethical Compliance Notice**  
 > real spambot and should be used on your own rish
 
 
