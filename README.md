@@ -7,12 +7,6 @@
 > real spambot and should be used on your own rish
 
 
-
-
-## Operational Workflow
-
-The tool environment relies on a master builder script to compile and structure customized deployment configurations. Users must deploy the entire repository folder structure locally.
-
 ### 1. Download & Environment Setup
 1. Click the green **Code** button at the top right of this repository.
 2. Select **Download ZIP** from the dropdown menu to capture all core resources.
